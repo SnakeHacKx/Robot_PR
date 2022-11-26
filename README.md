@@ -2,7 +2,7 @@
 Proyecto de robotica
 
 #Para instalar los paquetes utilizados con requeriments.txt
-$ pip install -r requirements.txt
+$ pip install -r requeriments.txt
 
 #Para crear un entorno virtual en python
 py -m venv .\[nombre de la carpeta]\ (el nombre se acostumbra poner "env")
